@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Saurabh Vishwakarma
 
-<!--
-**saurabhpssk-debug/saurabhpssk-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student at Gyan Sagar College of Engineering
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- JAVA
+- DSA
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal
+Become a Full Stack Web Developer
+
+📫 Email
+saurabhpssk@gmail.com
+
+⭐ Thanks for visiting my GitHub profile!
